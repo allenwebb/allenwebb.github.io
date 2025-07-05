@@ -2,6 +2,7 @@
 layout: page
 title: Relationships
 tags: autism relationships
+blurb: Some things my wife and I learned the hard way.
 ---
 
 # Relationships

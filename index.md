@@ -8,5 +8,7 @@ Welcome to my blog.
 {%   if page.title == 'Webb.fyi' or page.title == '' %}
 {%     continue %}
 {%   endif %}
-- [{{ page.title }}]({{ page.url }})
+{%   if page.title and page.url and page.blurb %}
+- [{{ page.title }}]({{ page.url }}): {{ page.blurb }}
+{%   endif %}
 {% endfor %}
