@@ -8,6 +8,7 @@ kramdown:
 theme: jekyll-theme-hacker
 
 plugins:
+  - jekyll-index-pages
   - jekyll-relative-links
   - jekyll-sitemap
 
