@@ -1,5 +1,3 @@
-# Webb.fyi
-
 Welcome to my blog.
 
 ## Pages
