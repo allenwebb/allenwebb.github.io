@@ -5,7 +5,7 @@ Welcome to my blog.
 ## Pages
 
 {% for page in site.pages %}
-{%   if page.url == '/index.html' %}
+{%   if page.title == 'Webb.fyi' or page.title == '' %}
 {%     continue %}
 {%   endif %}
 - [{{ page.title }}]({{ page.url }})
