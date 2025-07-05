@@ -2,4 +2,8 @@
 
 Welcome to my blog.
 
-Content coming soon.
+## Pages
+
+{% for page in site.pages %}
+- [{{ page.title }}]({{ page.url }})
+{% endfor %}
