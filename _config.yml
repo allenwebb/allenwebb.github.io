@@ -25,6 +25,10 @@ github:
   is_user_page: false
   is_project_page: false
 
+include:
+  - index.md
+  - autism/*.md
+
 title: Webb.fyi
 tagline: Learning things the hard way so you don't have to ;)
 # description:
