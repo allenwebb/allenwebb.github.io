@@ -1,3 +1,9 @@
+---
+layout: post
+title: Relationships
+tags: autism relationships
+---
+
 # Relationships
 
 Here are some things my wife and I learned the hard way in case it helps you learn the easy way.
@@ -41,3 +47,5 @@ I realize at this point I didn't really address your original post, but my inten
 ## Addressing insecurity
 
 Insecurity on either or both sides of the relationship can cause stress for both parties and make opening up and connecting in a deeper way more difficult. Going through difficult situations together, and dealing with the sources of insecurity, makes the relationship feel safer, so it will be easier to open up to each other.
+
+© 2025 Webb.fyi
