@@ -2,7 +2,7 @@
 layout: page
 title: Recipes
 tags: index
-blurb: Links to recipes I found manageable.
+blurb: Links to recipes I found to be manageable.
 ---
 
 # Recipes
