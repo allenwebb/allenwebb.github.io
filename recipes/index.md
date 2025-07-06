@@ -46,7 +46,7 @@ Note that some of these (especially the ones published by food companies) call f
 * (TODO) Instant pot rice
 
 
-## Mixed Entres
+## Mixed Entrees
 
 
 
@@ -55,7 +55,7 @@ Note that some of these (especially the ones published by food companies) call f
 * (TODO) Breakfast Burritos
 * (TODO) Shepherd's pie
 * (TODO) Hatch green chile enchiladas
-* (TODO) Nacho Cheese / Queso / Mac & Cheese
+* [(external) Nacho Cheese / Queso / Mac & Cheese](https://www.budgetbytes.com/5-minute-nacho-cheese-sauce/): I typically add a can of rotel tomatoes to turn this into queso. I have also directly put it on pasta noodles to make mac and cheese before which worked out well.
 * (TODO) Grilled cheese sandwiches
 * (TODO) Pasta Bake
 
@@ -65,12 +65,19 @@ Note that some of these (especially the ones published by food companies) call f
 
 
 * [(external) Banana bread](https://itsbellmade.com/recipe-easy-banana-bread/): I normally try to double this recipe since it leaves the oven running for about an hour and adding an extra loaf doesn't noticeably impact the prep and cooking time.
-* (TODO) Chocolate chip cookies
+* [(external) Chocolate chip cookies](https://www.nestle.com/stories/timeless-discovery-toll-house-chocolate-chip-cookie-recipe): This is the Nestle recipe.
 * (TODO) Ginger crinkles
 * [(external) Lime pie (without key limes)](https://www.onceuponachef.com/recipes/key-lime-pie.html): I omitted the whipped topping when I made this recipe and it was still really good.
-* (TODO) Crepes
-* (TODO) Dark Chocolate & Oat clusters
-* (TODO) New york-style cheesecake with strawberry topping
+* [(external) Crepes](https://www.allrecipes.com/recipe/19037/dessert-crepes/): I often get whipped cream and some kind of berries to serve with this, but Nutella and or chocolate ships are also a good option.
+* [(external) Dark Chocolate & Oat clusters](https://recipes.sparkpeople.com/recipe-detail.asp?recipe=1979205): I found the batch size of this recipe to be way too small so I normally up it to
+    * 1 cup of peanut butter,
+    * 1 cup of milk
+    * 1 12oz bag of chocolate chips
+    * 3 cups of rolled oats
+
+    I also tend to make larger bars and spread them on wax paper over a baking sheet with edges to catch any debris.
+
+* [(external) New york-style cheesecake with strawberry topping](https://groups.io/g/strawpinerecipes/topic/new_york_style_cheesecake/1792758): The original source of this recipe was updated to something different so the link is to a copy of the original version.
 * (TODO) Fudge
 
 © 2025 Webb.fyi
