@@ -18,7 +18,7 @@ relative_links:
 theme: jekyll-theme-hacker
 
 show_downloads: false
-# google_analytics:
+google_analytics: G-4YHGQ9J4PW
 
 github:
   is_user_page: false
